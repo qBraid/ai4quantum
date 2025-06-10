@@ -191,6 +191,7 @@ def main():
                         depth=model_depth_config
                     )
                     
+                    
                     print("  Training model...")
                     training_start_time = time.time()
                     trained_model, history = train_mitigator(

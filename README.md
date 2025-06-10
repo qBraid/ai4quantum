@@ -1,4 +1,4 @@
-#AI4Quantum
+# AI4Quantum
 
 This is a repo containing AI4Quantum applications. The following are contained here:
 
