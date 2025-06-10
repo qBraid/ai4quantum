@@ -1,6 +1,6 @@
 # ML Denoising: Quantum Circuit Error Mitigation with Machine Learning
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/ai4quantum.git&utm_source=github&redirectUrl=/ml-denoising/README.md)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/ai4quantum.git&utm_source=github&redirectUrl=ml-denoising/README.md)
 
 
 A Python package that uses machine learning techniques, specifically Graph Neural Networks (GNNs), to mitigate quantum circuit errors. This package implements advanced error mitigation strategies using PyTorch Geometric and Qiskit.
